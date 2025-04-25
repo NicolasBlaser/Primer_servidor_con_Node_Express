@@ -1,0 +1,17 @@
+{
+  "name": "primer_servidor_con_node_express",
+  "version": "1.0.0",
+  "description": "este es nuestro primer sv con node express para la empresa blaser",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "author": "toni y el gru",
+  "license": "ISC"
+}
